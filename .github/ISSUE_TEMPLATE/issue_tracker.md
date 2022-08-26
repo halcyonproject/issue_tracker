@@ -13,7 +13,7 @@ Describe here
 
 ## Where do you faced this issue?
 ```
-Source side/Oddicial build of my device
+Source side/Official build of my device
 ```
 
 ## On which device does this issue occur?
@@ -21,14 +21,14 @@ Source side/Oddicial build of my device
 Your Device
 ```
 
-## Your device siurce codes
+## Your device source codes
 ```
 Put your device source codes if you are facing issue while building conquerOS. Leave it empty if you are using Official build.
 ```
 
 ## Attachment
 ```
-Paste logcat, screensjot link here. DO NOT PASTE YOUR LOG CONTENT HERE!
+Paste logcat, screenshot link here. DO NOT PASTE YOUR LOG CONTENT HERE!
 ```
 
 <!--
