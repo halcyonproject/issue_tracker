@@ -1,12 +1,12 @@
 ---
-name: conquerOS Issue Tracker
-about: Report any issue on conquerOS
-title: Source and Official Build Issue Tracker for conquerOS
+name: Halcyon Issue Tracker
+about: Report any issue on Halcyon
+title: Source and Official Build Issue Tracker for Halcyon
 ---
 
-# conquerOS Issue Tracker
+# Halcyon Issue Tracker
 
-## Describe the issue you faced with conquerOS
+## Describe the issue you faced with Halcyon
 ```
 Describe here
 ```
@@ -23,7 +23,7 @@ Your Device
 
 ## Your device source codes
 ```
-Put your device source codes if you are facing issue while building conquerOS. Leave it empty if you are using Official build.
+Put your device source codes if you are facing issue while building Halcyon. Leave it empty if you are using Official build.
 ```
 
 ## Attachment
